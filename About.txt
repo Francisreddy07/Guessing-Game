@@ -1,0 +1,45 @@
+Guess the Number Game - JavaScript
+
+## Overview
+This is a simple number guessing game built using basic JavaScript. The player has to guess a randomly generated number within a given range. The game provides feedback on whether the guess is too high or too low until the correct number is guessed.
+
+## Features
+- Random number generation.
+- User input for guessing the number.
+- Feedback on each guess (Too High, Too Low, Correct).
+- Reset functionality to play again.
+
+## How to Play
+1. Open the game in a web browser.
+2. Enter a number within the specified range.
+3. Click the "Guess" button.
+4. Receive feedback on whether your guess is too high, too low, or correct.
+5. Continue guessing until you find the correct number.
+6. Reset the game to start over.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript (DOM Manipulation & Event Handling)
+
+## How to Run
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/your-username/guess-number-game.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd guess-number-game
+   ```
+3. Open the `index.html` file in a web browser.
+
+## Future Improvements
+- Add difficulty levels (Easy, Medium, Hard).
+- Implement a scoring system.
+- Add animations and sound effects.
+
+## Contributions
+Feel free to fork the repository and submit pull requests with improvements!
+
+Happy Coding! 🎉
+
